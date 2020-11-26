@@ -32,7 +32,9 @@ git clone https://github.com/botolmonir/Botol.git
 ~~~
 cd Botol
 ~~~
+~~~
 chmod +x botol.py
+~~~
 ~~~
 python2 botol.py
 ~~~
