@@ -39,9 +39,9 @@ chmod +x botol.py
 python2 botol.py
 ~~~
 ~~~~~
-username : found yourself
+username : find yourself
 
-password : found yourself
+password : find yourself
 ~~~~~
 ~~~~
 Facebook ->
